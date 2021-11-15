@@ -7,7 +7,8 @@ function sub(){
 }
 
 function mult(){
-    //TODO: Implementar multiplicação
+    const mult = (x, y) => x * y;
+    console.log(mult(2, 15));
 }
 
 function div(){
