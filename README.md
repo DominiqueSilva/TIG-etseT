@@ -36,3 +36,4 @@ Dica e exemplo de geração de arquivo:  `history > LOG_AngeloLuz`
 
 #### Amira (https://github.com/Amira-Ahmad)
 #### Lucas Santos (https://github.com/lucassanto299)
+#### Dominique (https://github.com/DominiqueSilva)
