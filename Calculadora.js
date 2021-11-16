@@ -1,6 +1,8 @@
-function sum(){
     //TODO: Implementar soma
-}
+    soma = (n, y) => n + y
+console.log(soma(10,5));
+
+
 
 function sub(){
     //TODO: Implementar subtração
