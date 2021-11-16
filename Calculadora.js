@@ -3,7 +3,8 @@ function sum(){
 }
 
 function sub(){
-    //TODO: Implementar subtração
+    sub = (x,n) => x - n
+    console.log(ssubub(10, 5))
 }
 
 function mult(){
