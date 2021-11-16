@@ -4,7 +4,7 @@ function sum(){
 
 function sub(){
     sub = (x,n) => x - n
-    console.log(ssubub(10, 5))
+    console.log(sub(10, 5))
 }
 
 function mult(){
