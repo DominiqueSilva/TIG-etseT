@@ -15,5 +15,6 @@ function mult(){
 }
 
 function div(){
-    //TODO: Implementar divisão
+    const mult = (x, y) => x / y;
+    console.log(mult(10, 5));
 }
