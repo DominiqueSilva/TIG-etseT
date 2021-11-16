@@ -1,0 +1,21 @@
+  191  cd 
+  192  cd TIG-etseT/
+  193  git status
+  194  git branch
+  195  git checkout master
+  196  git checkout feature/soma
+  197  git pull
+  198  git checkout Calculadora.js 
+  199  git branch
+  200  git checkout master
+  201  git checkout feature/soma
+  202  git pull branch
+  203  git pull Calculadora.js
+  204  git pull
+  205  git branch origin/Calculadora.js
+  206  git push origin feature/soma
+  207  git log
+  208  git checkout master
+  209  git checkout feature/soma
+  210  git log
+  211  history>LOG_lucas
