@@ -5,7 +5,8 @@ console.log(soma(10,5));
 
 
 function sub(){
-    //TODO: Implementar subtração
+    sub = (x,n) => x - n
+    console.log(sub(10, 5))
 }
 
 function mult(){
