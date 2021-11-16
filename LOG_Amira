@@ -27,4 +27,4 @@
    27  git commit -m "LOG Amira"
    28  git ckeckout feature/sub
    29  git checkout feature/sub
-   30  history>LOG_Amira
+   30  history>LOG_Amira 
