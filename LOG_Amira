@@ -1,0 +1,31 @@
+    1  git clone https://github.com/DominiqueSilva/TIG-etseT.git
+    2  cd TIG-etseT
+    3  git status
+    4  git log
+    5  git checkout -b feature/sub
+    6  git branch
+    7  git status
+    8  git status
+    9  git add Calculadora.js
+   10  git status
+   11  git commit -m ":sparkles: add feature/sub"
+   12  git status
+   13  git log
+   14  git push origin feature/sub
+   15  git status
+   16  git status
+   17  git add Calculadora.js
+   18  git commit -m ":sparkles: Add feature/sub"
+   19  git push origin feature/sub
+   20  git checkout master
+   21  git checkout feature/sub
+   22  git status
+   23  git checkout master
+   24  history
+   25  history>LOG_Amira
+   26  git add .
+   27  git commit -m "LOG Amira"
+   28  git ckeckout feature/sub
+   29  git checkout feature/sub
+   30  history>LOG_Amira 
+   
