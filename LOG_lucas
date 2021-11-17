@@ -19,3 +19,5 @@
   209  git checkout feature/soma
   210  git log
   211  history>LOG_lucas
+  
+
