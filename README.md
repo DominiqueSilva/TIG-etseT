@@ -3,7 +3,7 @@
 
 ### Atividade Final de versionamento
 
-####  ✅ Projeto em andamento
+####  ✅ Projeto Finalizado!
 
 
 # 📚 Atividade 📚
