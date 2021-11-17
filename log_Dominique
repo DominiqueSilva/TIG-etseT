@@ -1,0 +1,26 @@
+    1  git clone https://github.com/DominiqueSilva/TIG-etseT.git
+    2  cd TIG-etseT/
+    3  git checkout feature/mult
+    4  git checkout -b  feature/mult
+    5  node Calculadora.js 
+    6  git add .
+    7  git status
+    8  git commit -m ":sparkles: Add feature/mult"
+    9  git status
+   10  git checkout master
+   11  git merge feature/mult
+   12  git add .
+   13  git commit -m ":memo: Add atualização do README"
+   14  git push -u origin --all
+   15  history
+   16  git pull
+   17  git checkout -b feature/div
+   18  git status
+   19  git add .
+   20  git commit -m ":sparkles: Add feature/div"
+   21  git checkout master
+   22  git merge feature/div
+   23  git push
+   24  git checkout feature/soma
+   25  git checkout master
+   26  history > log_Dominique 
